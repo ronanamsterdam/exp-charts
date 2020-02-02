@@ -36,6 +36,7 @@
     ]
   },
   "devDependencies": {
+    "@types/victory": "^33.1.4",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
     "typescript": "^3.7.5"
